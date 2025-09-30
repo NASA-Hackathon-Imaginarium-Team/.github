@@ -5,6 +5,7 @@ Below, I have listed 3 ideas for what the project could be. These are not set in
 Below that, you will find a number of job roles and thier desciption. Please have a read through and see what you find interesting. You may end up having 2 roles on the 2 days. For example:
 - Shaheer, you may want to do data processing on day 1 and create a data pipeline, then switch to creating the webapp for day 2.
 - Senan, you may wish to work on training the AI model day 1, but choose to work on the webapp day 2.
+
 This is up to you! 
 
 ## Project Ideas
