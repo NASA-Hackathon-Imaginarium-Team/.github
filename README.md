@@ -11,10 +11,12 @@ This is up to you!
 ## Project Ideas
 
 ### Exoplanet Classification Webapp
-An interactive visualisation of the predictions from the datasets. Potentially a dashboard or some analytics page that shows the number of exoplanets identified etc.
+An interactive visualisation of the predictions from the datasets. Potentially a dashboard or some analytics page that shows the number of exoplanets identified etc. This can then be used as a research tool by physicists. Data rto be displayed could include the number of planets found, the number of false positives, the orbital periods, etc.
+Basically, visualise a load of data on a home page.
 
 ### Exoplanet Browser
-A webapp allowing people to filter the database for exoplanets with specific characteristics
+A webapp allowing people to filter the database for exoplanets with specific characteristics. 
+This can allow researchers to see how many exoplanets fit a desired range of characteristcs. Or let interested members of the public search for thier "ideal" planet that fits thier desired characteristics.
 
 ### Citizen Science Logger
 Citizen Science is a form of public participation in research studies. The idea is to use citizens as your researchers to get more eyes and ears in the field. In Ornithology, citizen science is used for members of the public to log sighting of bird species to track thier movements and population.
